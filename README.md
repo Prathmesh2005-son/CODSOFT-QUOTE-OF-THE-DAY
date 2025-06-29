@@ -1,2 +1,2 @@
 # CODSOFT
-To submit my task of CodeSoft
+To Generate a new Quote every day
